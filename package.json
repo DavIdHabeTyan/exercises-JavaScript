@@ -1,0 +1,22 @@
+{
+  "name": "exercises-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavIdHabeTyan/exercises-JavaScript.git"
+  },
+  "author": "David Habetyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavIdHabeTyan/exercises-JavaScript/issues"
+  },
+  "homepage": "https://github.com/DavIdHabeTyan/exercises-JavaScript#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
