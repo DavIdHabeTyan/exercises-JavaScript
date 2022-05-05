@@ -33,8 +33,6 @@
 //
 
 
-
-
 describe('generate string length to 4 and letters tweak upperCase ', () => {
    function sortString(str, numb) {
       str = str.toUpperCase()
